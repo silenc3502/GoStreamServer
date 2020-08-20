@@ -1,0 +1,2 @@
+# GoStreamServer
+Golang Streaming Server
